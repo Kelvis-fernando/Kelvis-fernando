@@ -20,7 +20,7 @@
   <img align="center" alt="Kelvis-python" height="30" width="50" src="./assets/python-original.svg">
 </div>
  
-<div>
+<div style="display: inline_block">
    <a href="mailto:kelvisdelapena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelvis-fernando-5b798818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
