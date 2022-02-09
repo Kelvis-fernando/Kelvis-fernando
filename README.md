@@ -1,5 +1,5 @@
 ### Olá, Seja bem vindo ao meu GitHub
-## Meu nome é Kelvis, sou desenvolvedor Fullstack
+## Meu nome é Kelvis, sou desenvolvedor front-end
 
  <div>
   <a href="https://github.com/Kelvis-fernando">
